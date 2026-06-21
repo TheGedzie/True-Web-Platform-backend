@@ -1,4 +1,4 @@
-import { register, login } from "../../controllers/authController/inex.js";
+import { register, login } from "../../controllers/authController/index.js";
 import { Router } from "express";
 
 const router = Router()
